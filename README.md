@@ -1,6 +1,6 @@
-============================
+==============
   CAT CATCH BOT - SETUP GUIDE
-============================
+==============
 
 Installing Python (with the "Add to PATH" gotcha called out)
 Installing discord.py-self via pip
